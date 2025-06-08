@@ -11,15 +11,15 @@
   <img src="https://img.shields.io/badge/Climate--Adaptive--Forestry-critical" />
 </p>
 
-🎓 I hold a master's degree in Forest Ecology and Silviculture. My M.Sc. research focused on the morphological and physiological responses of *Populus deltoides* clones under drought stress. I earned a thesis score of **19.38/20**, the second-highest in my department, and published two Persian conference papers and one peer-reviewed journal article.
+🎓 The candidate earned a master's degree in Forest Ecology and Silviculture, with research focused on the morphological and physiological responses of Populus deltoides clones under drought stress. The thesis received a score of 19.38/20 (the second-highest in the department) and led to the publication of two conference papers in Persian and one peer-reviewed journal article.
 
-🔬 While my thesis analyses were based on one-way and two-way ANOVA using SPSS, in recent years I have pursued structured training in R programming, with a focus on ecological modeling and data analysis.
+🔬 Although the thesis analyses were based on one-way and two-way ANOVA using SPSS, structured training in R programming has recently been pursued, with an emphasis on ecological modelling and data analysis.
 
 ---
 
 ## 🌱 Research Interests
 
-- Drought response and resilience in forest tree species  
+- Drought response and resilience in forest tree species 
 - Forest ecophysiology under climate change  
 - Tree phenology and environmental cues  
 - Species Distribution Modeling (SDM)  
@@ -30,7 +30,7 @@
 
 ## 🧠 Skills & Tools
 
-- 🧮 **R Programming** (data analysis, modeling, visualization)  
+- 🧮 **R Programming** (data analysis, modelling, visualization)  
 - 🌍 **SDM in R** (MaxEnt, GLM, Random Forest)  
 - 🗺 **Spatial Data Science** (raster, terra, sf, sp)  
 - 📊 **Classical Statistics** (ANOVA with SPSS)  
@@ -41,22 +41,22 @@
 ## 📂 Featured Projects
 
 - [`R-learning-notes`](https://github.com/Nasrin-Farokhi/R-learning-notes)  
-  Step-by-step notes and scripts from my R programming journey, with applications in forest science.
+  A collection of structured R programming notes and scripts tailored to applications in forest science.
 
 ### 🔧 Upcoming repositories:
 
-- `Species-Distribution-Modeling` — modeling range shifts of species under climate change  
-- `Populus-Drought-Analysis` — sharing statistical results and key figures from my thesis on drought stress in *Populus deltoides* clones, including visualizations and findings from the published article  
+- `Species-Distribution-Modelling` — modelling range shifts of species under climate change  
+- `Populus-Drought-Analysis` — presents statistical outcomes and key insights from a master's thesis on drought stress in Populus deltoides clones, featuring visualizations and results published in a peer-reviewed article.  
 
 ---
 
 ## 🌍 Motivation
 
-As climate change accelerates, forest ecosystems are facing more frequent droughts, rising temperatures, and disrupted phenology. These shifts demand ecological research that is both predictive and spatially informed. Traditional tools alone are no longer enough to assess the dynamic responses of species to environmental change.
+As climate change accelerates, forest ecosystems are facing increasingly frequent droughts, rising temperatures, and disrupted phenological cycles. These shifts demand ecological research that is both predictive and spatially informed. Traditional tools alone are no longer enough to assess the dynamic responses of species to environmental change.
 
-In response to this need, I have expanded my skills in **R programming** — a powerful tool for modeling complex ecological phenomena. From species distribution models to spatial data analysis, my training has helped me approach forest research with precision, reproducibility, and data-driven insight.
+Training in species distribution modelling and spatial data analysis has strengthened R programming expertise — a powerful tool for modelling complex ecological phenomena — enabling more precise, reproducible, and data-driven approaches to forest research.
 
-Through this GitHub profile, I aim to share highlights from this scientific journey in ecological programming and invite others in forest science to connect and collaborate.
+This GitHub profile showcases key milestones in ecological programming and encourages collaboration within the forest science community.
 
 ---
 
